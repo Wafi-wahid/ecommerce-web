@@ -1,4 +1,4 @@
-# Welcome to your Vite app 👋
+# Welcome to your E-Commerce app using React & Typescript 👋
 
 
 ## Get started
